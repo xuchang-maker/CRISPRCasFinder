@@ -1,0 +1,2 @@
+# CRISPRCasFinder
+一个没有root权限的CRISPRCasFinder软件的安装教程
